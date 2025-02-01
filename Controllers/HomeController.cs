@@ -17,12 +17,23 @@ namespace Paintolog.Controllers
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             return View();
         }
 
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Conditions()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
