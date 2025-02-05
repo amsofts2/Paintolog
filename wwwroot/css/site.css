@@ -81,13 +81,17 @@ footer img {
       padding:10px;
       height:100px;
   }
-    .navbar-nav {
-        text-align: center; /* Mobilde menüleri ortala */
-    }
+  .navbar-nav {
+      text-align: center; 
+  }
 
-    .nav-link {
-        padding: 10px 0; /* Mobilde daha geniþ padding */
-    }
+  .nav-link {
+      padding: 10px 0;
+  }
+  .store-link {
+      justify-content: center;
+      width: 100%;
+  }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
