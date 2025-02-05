@@ -1,0 +1,12 @@
+﻿.contact-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.map-container {
+    border-radius: 12px;
+    overflow: hidden;
+}
